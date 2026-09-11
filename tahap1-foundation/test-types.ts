@@ -4,12 +4,12 @@ function tambah(a: number, b: number): number {
 
 const a = 5
 const b = 12
-var hasil: number = tambah(a, b)
+let hasil: number = tambah(a, b)
 console.log(`${a} + ${b} = ${hasil}`)
 
-type User = { name: String, age: number }
+type User = { name: string, age: number }
 
-function createUser(name: String, age: number): User {
+function createUser(name: string, age: number): User {
     return {name, age}
 }
 
