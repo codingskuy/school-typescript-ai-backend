@@ -79,3 +79,21 @@
 **Progress:** 100% complete
 
 ---
+## 2026-09-11 16:11:16
+
+**Topic:** 1.5 Function, Async/Await & Promise di Bun
+
+**Theory:**
+- Function sync vs Promise (struk antrian) vs async/await (nunggu elegan tanpa block). Analogi dapur: goreng telur sync, janji kopi Promise, await = tunggu tanpa macet. Mirip Kotlin suspend/coroutine.
+- Promise.all = all-or-nothing (fails fast jika satu reject), Promise.allSettled = tunggu semua selesai (fulfilled+rejected) dan return status.
+
+**Practice:**
+- Membuat tahap1-foundation/async-promise.ts dengan sapa(), ambilDataDariAPI(id) yang resolve jika id!=0 dan reject jika id==0 (1 detik delay)
+- main() dengan await dan Promise.all([0,12]) yang trigger reject, memahami unhandled rejection
+- Diskusi: settled = proses tetap ditunggu sampai semua promise settled (fulfilled atau rejected), tidak short-circuit seperti Promise.all
+- Fix dengan try/catch dan allSettled untuk handle partial failure
+
+
+**Progress:** 100% complete
+
+---
