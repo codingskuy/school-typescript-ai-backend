@@ -6,7 +6,7 @@
 
 ## Tahap 1: Fondasi TypeScript + Bun 🧱 — GRATIS
 - [x] 1.1 Kenapa TypeScript untuk Backend? (JS vs TS, type safety kayak Kotlin)
-- [ ] 1.2 Setup Project Bun Terbaru (bun init, tsconfig, bun --watch, Bun.env)
+- [x] 1.2 Setup Project Bun Terbaru (bun init, tsconfig, bun --watch, Bun.env)
 - [ ] 1.3 Tipe Dasar & Type System (string, number, boolean, array, object, any vs unknown)
 - [ ] 1.4 Interface vs Type, Enum, Union & Intersection
 - [ ] 1.5 Function, Async/Await & Promise di Bun

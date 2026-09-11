@@ -4,16 +4,18 @@
       "name": "backend typescript",
       "percent": 100,
       "theory": [
-        "1.1 Kenapa TypeScript untuk Backend? (JS vs TS, type safety kayak Kotlin)"
+        "1.1 Kenapa TypeScript untuk Backend? (JS vs TS, type safety kayak Kotlin)",
+        "1.2 Setup Project Bun Terbaru (bun init, tsconfig, bun --watch, Bun.env)"
       ],
       "practice": [],
       "quizzes": [],
       "completedTheory": [
-        "1.1 Kenapa TypeScript untuk Backend? (JS vs TS, type safety kayak Kotlin)"
+        "1.1 Kenapa TypeScript untuk Backend? (JS vs TS, type safety kayak Kotlin)",
+        "1.2 Setup Project Bun Terbaru (bun init, tsconfig, bun --watch, Bun.env)"
       ],
       "completedPractice": [],
       "currentItem": null,
-      "lastCompletedItem": "1.1 Kenapa TypeScript untuk Backend? (JS vs TS, type safety kayak Kotlin)",
+      "lastCompletedItem": "1.2 Setup Project Bun Terbaru (bun init, tsconfig, bun --watch, Bun.env)",
       "currentBloomStage": null
     }
   },
@@ -23,6 +25,6 @@
     "practice": 100,
     "architecture": 50
   },
-  "xp": 50,
+  "xp": 100,
   "level": 1
 }

@@ -24,3 +24,19 @@
 **Progress:** 100% complete
 
 ---
+## 2026-09-11 14:52:48
+
+**Topic:** 1.2 Setup Project Bun Terbaru (bun init, tsconfig, bun --watch, Bun.env)
+
+**Theory:**
+- Bun adalah runtime all-in-one (runtime + package manager + bundler), lebih cepat dari Node.js. `bun init` membuat package.json, tsconfig.json, dan struktur project. `bun --watch` auto-restart saat file berubah. `Bun.env` untuk baca environment variables.
+
+**Practice:**
+- Berhasil menjalankan `bun --version` dan `bun upgrade` ke versi terbaru
+- Menjalankan `bun init -y` di backend-typescript, membuat package.json dan tsconfig.json
+- Menjalankan `bun --watch src/index.ts` berhasil - auto reload berjalan
+
+
+**Progress:** 100% complete
+
+---
