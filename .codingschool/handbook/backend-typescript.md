@@ -60,3 +60,22 @@
 **Progress:** 100% complete
 
 ---
+## 2026-09-11 15:36:57
+
+**Topic:** 1.4 Interface vs Type, Enum, Union & Intersection
+
+**Theory:**
+- Interface vs Type: keduanya bikin cetakan object, interface bisa extends, type lebih fleksibel untuk union/intersection. Enum: daftar konstanta terbatas (Role). Union (A|B): boleh salah satu. Intersection (A&B): harus keduanya.
+
+**Practice:**
+- Berhasil membuat tahap1-foundation/interface-type.ts
+- interface UserI dan type UserT dengan name:string age:number, membuat u1 (Rois) dan u2 (Khoiron, age 28.5 - demo number bisa float)
+- enum Role {ADMIN="admin"...} dan people1=Role.ADMIN dengan template literal
+- Union id: number|string dari 123 ke "ABC-123"
+- Intersection HasName & HasAge menjadi Person dengan name+age
+- Semua run sukses, paham konsep cetakan object
+
+
+**Progress:** 100% complete
+
+---
