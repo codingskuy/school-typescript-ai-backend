@@ -1,0 +1,15 @@
+{
+  "currentPhase": "teach",
+  "teacher": {
+    "misconceptions": [],
+    "successfulHintLevel": 1,
+    "activeTopic": "backend typescript",
+    "lastDiagnosedAt": "2026-09-10T03:33:40.320Z"
+  },
+  "coach": {
+    "weakDimensions": [],
+    "skillGaps": []
+  },
+  "updatedAt": "2026-09-10T03:33:40.320Z",
+  "activeTopic": "backend typescript"
+}

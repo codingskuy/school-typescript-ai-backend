@@ -1,0 +1,28 @@
+{
+  "topics": {
+    "backend typescript": {
+      "name": "backend typescript",
+      "percent": 100,
+      "theory": [
+        "1.1 Kenapa TypeScript untuk Backend? (JS vs TS, type safety kayak Kotlin)"
+      ],
+      "practice": [],
+      "quizzes": [],
+      "completedTheory": [
+        "1.1 Kenapa TypeScript untuk Backend? (JS vs TS, type safety kayak Kotlin)"
+      ],
+      "completedPractice": [],
+      "currentItem": null,
+      "lastCompletedItem": "1.1 Kenapa TypeScript untuk Backend? (JS vs TS, type safety kayak Kotlin)",
+      "currentBloomStage": null
+    }
+  },
+  "global": {
+    "softwareEngineering": 100,
+    "knowledge": 100,
+    "practice": 100,
+    "architecture": 50
+  },
+  "xp": 50,
+  "level": 1
+}

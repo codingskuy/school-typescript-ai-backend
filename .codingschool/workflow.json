@@ -1,0 +1,20 @@
+{
+  "teacher": {
+    "diagnosedTopics": [
+      "backend typescript"
+    ],
+    "roadmapTopics": [
+      "backend typescript"
+    ],
+    "taughtTopics": [
+      "backend typescript"
+    ],
+    "assessedTopics": []
+  },
+  "coach": {
+    "timelineInit": false,
+    "claimItems": {}
+  },
+  "lastTool": "cs_update_progress",
+  "updatedAt": "2026-09-11T07:32:18.819Z"
+}
