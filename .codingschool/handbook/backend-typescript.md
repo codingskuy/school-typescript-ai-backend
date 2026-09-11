@@ -40,3 +40,23 @@
 **Progress:** 100% complete
 
 ---
+## 2026-09-11 15:18:19
+
+**Topic:** 1.3 Tipe Dasar & Type System (string, number, boolean, array, object, any vs unknown)
+
+**Theory:**
+- Tipe dasar: string, number, boolean (primitive), array (string[]), object ({name, age}). 
+- any = bebas tanpa cek (bahaya, bug runtime), unknown = harus typeof guard dulu (aman). Analogi: any = toples tanpa label, unknown = toples terkunci harus cek dulu.
+
+**Practice:**
+- Berhasil membuat tahap1-foundation/type-basic.ts
+- const nama:string, umur:number, isBackendDev:boolean + template literal
+- Array hobi: string[] dan object user dengan type inline
+- Demo any: bebas:any dari string jadi number lolos tanpa error
+- Demo unknown: amanUnknown:unknown dengan typeof === "string" guard + else branch, lalu toUpperCase aman
+- Output berhasil, paham perbedaan any vs unknown
+
+
+**Progress:** 100% complete
+
+---

@@ -13,5 +13,5 @@ function createUser(name: string, age: number): User {
     return {name, age}
 }
 
-const user = createUser("Rois Khoiron", 28)
+const user1 = createUser("Rois Khoiron", 28)
 console.log(`Halo saya ${user.name} usia saya ${user.age} salam kenal`)
