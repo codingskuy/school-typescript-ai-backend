@@ -10,7 +10,7 @@
 - [x] 1.3 Tipe Dasar & Type System (string, number, boolean, array, object, any vs unknown)
 - [x] 1.4 Interface vs Type, Enum, Union & Intersection
 - [x] 1.5 Function, Async/Await & Promise di Bun
-- [ ] 1.6 Modul, Import/Export & Struktur Folder Backend (Clean Architecture intro)
+- [x] 1.6 Modul, Import/Export & Struktur Folder Backend (Clean Architecture intro)
 - [ ] 🚀 Proyek 1: CLI Mini — Kalkulator & Todo CLI dengan Bun + TypeScript
 
 ## Tahap 2: HTTP Server — Bun + Elysia ❤️ — GRATIS

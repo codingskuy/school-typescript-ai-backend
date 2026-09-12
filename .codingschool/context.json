@@ -1,5 +1,5 @@
 {
-  "currentPhase": "teach",
+  "currentPhase": "done",
   "teacher": {
     "misconceptions": [],
     "successfulHintLevel": 1,
@@ -7,9 +7,29 @@
     "lastDiagnosedAt": "2026-09-10T03:33:40.320Z"
   },
   "coach": {
-    "weakDimensions": [],
-    "skillGaps": []
+    "weakDimensions": [
+      "architecture thinking",
+      "git process",
+      "testing mindset",
+      "GRC awareness",
+      "documentation",
+      "collaboration",
+      "code quality"
+    ],
+    "skillGaps": [
+      "code formatting",
+      "documentation",
+      "clean output"
+    ],
+    "lastClaimLevel": "junior",
+    "readiness": "junior",
+    "lastReviewAt": "2026-09-12T04:49:52.644Z",
+    "completedProject": {
+      "projectName": "Proyek 1: CLI Mini — Kalkulator & Todo CLI dengan Bun + TypeScript",
+      "topic": "backend typescript",
+      "summary": "Proyek 1 selesai 100% gratis local: Calculator pure functions (tambah/kurang/kali/bagi/pangkat) dengan error handling bagi 0, Todo CRUD (add/list/done/delete/edit/clear) dengan Bun.file persistence JSON dan async/await, serta CLI controller (calc/todo/help) dengan parse args slice(2) dan try/catch. Struktur Clean Architecture mini (utils/math, domain/todo, cli). User paham type safety, file persistence, dan implement fitur tambahan pangkat & clear secara mandiri. Fix Bun types dengan bun add bun-types. Semua 3 tugas di-claim junior level."
+    }
   },
-  "updatedAt": "2026-09-10T03:33:40.320Z",
+  "updatedAt": "2026-09-12T04:50:09.800Z",
   "activeTopic": "backend typescript"
 }

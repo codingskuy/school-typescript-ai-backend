@@ -97,3 +97,20 @@
 **Progress:** 100% complete
 
 ---
+## 2026-09-11 16:27:00
+
+**Topic:** 1.6 Modul, Import/Export & Struktur Folder Backend (Clean Architecture intro)
+
+**Theory:**
+- Modul = ruangan terpisah biar code rapi, import/export untuk hubungkan file. Named export vs default export, ESM butuh .js extension di import. Struktur Clean Architecture: controllers (terima request), services/domain (logic), repositories (DB), utils (helper) - mirip Android.
+
+**Practice:**
+- Berhasil membuat tahap1-foundation/tahap1_6.../utils/math.ts dengan export tambah & kali
+- Membuat domain/user_use_case.service.ts dengan type User, buatUser, sapaUser yang import dari math.js (sudah pakai .js extension benar)
+- Membuat index.ts yang import dari domain dan utils, membuat user Rois 28, console.log sapa dan kali
+- Struktur modular berhasil, paham Clean Architecture intro
+
+
+**Progress:** 100% complete
+
+---

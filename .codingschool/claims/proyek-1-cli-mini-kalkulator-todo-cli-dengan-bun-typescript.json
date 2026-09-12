@@ -1,0 +1,37 @@
+{
+  "projectName": "Proyek 1: CLI Mini — Kalkulator & Todo CLI dengan Bun + TypeScript",
+  "item": "T3 Buat cli.ts dengan parse args dan help",
+  "status": "claimed",
+  "files": [
+    {
+      "path": "tahap1-foundation/proyek_1/src/cli.ts",
+      "existed": false
+    },
+    {
+      "path": "tahap1-foundation/proyek_1/src/utils/args.ts",
+      "existed": false
+    }
+  ],
+  "attempts": 0,
+  "openedAt": "2026-09-12T04:18:53.117Z",
+  "qaHistory": [
+    {
+      "question": "Kenapa slice(2) di getArgs?",
+      "answer": "Mengeliminasi 2 string pertama bun dan index.ts sehingga yang diolah calc/todo",
+      "score": "correct"
+    },
+    {
+      "question": "Apa yang terjadi calc bagi 10 0?",
+      "answer": "Error ditangkap try catch dari kondisional throw di kalkulasi, output Error Tidak bisa bagi 0",
+      "score": "correct"
+    },
+    {
+      "question": "Dimana tambah clear?",
+      "answer": "Menambahkan function clear di todo.ts (saveTodos []) dan case clear di cli.ts handleTodo",
+      "score": "correct"
+    }
+  ],
+  "confidence": 100,
+  "successLevel": "junior",
+  "resolvedAt": "2026-09-12T04:49:49.265Z"
+}

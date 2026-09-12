@@ -1,0 +1,71 @@
+{
+  "projectName": "Proyek 1: CLI Mini — Kalkulator & Todo CLI dengan Bun + TypeScript",
+  "description": "CLI Mini dengan Bun + TypeScript: Kalkulator (tambah/kurang/kali/bagi) dan Todo CLI (add/list/done/delete) via args, pakai struktur Clean Architecture mini. 100% gratis, tanpa DB, file JSON untuk persistence.",
+  "techStack": [
+    "Bun",
+    "TypeScript",
+    "ESM",
+    "Bun.file/Bun.write (file persistence)"
+  ],
+  "milestones": [
+    {
+      "status": "todo",
+      "sprints": []
+    },
+    {
+      "status": "todo",
+      "sprints": []
+    },
+    {
+      "status": "todo",
+      "sprints": []
+    },
+    {
+      "name": "M1 Kalkulator CLI",
+      "status": "done",
+      "sprints": [
+        {
+          "name": "S1 Setup dan Kalkulator",
+          "status": "todo",
+          "epics": [
+            {
+              "name": "E1 Calculator Module",
+              "status": "todo",
+              "tasks": [
+                {
+                  "name": "T1 Buat calculator.ts dengan tambah kurang kali bagi",
+                  "status": "done",
+                  "notes": "User paham === dan throw Error, berhasil nambah pangkat di 3 tempat (type, function, switch) dan fix ^ menjadi ** setelah diingatkan. Run menghasilkan 8 untuk 2**3 benar."
+                }
+              ]
+            },
+            {
+              "name": "E2 Todo Module",
+              "status": "todo",
+              "tasks": [
+                {
+                  "name": "T2 Buat todo.ts dengan CRUD dan file persistence",
+                  "status": "done",
+                  "notes": "User paham async/await, trim validasi, dan berhasil implement editTodo dengan findIndex dan replace. Fix Bun types dengan bun add bun-types."
+                }
+              ]
+            },
+            {
+              "name": "E3 CLI Integration",
+              "status": "todo",
+              "tasks": [
+                {
+                  "name": "T3 Buat cli.ts dengan parse args dan help",
+                  "status": "done",
+                  "notes": "User paham slice(2), error handling bagi 0, dan berhasil implement clear di todo.ts dan cli.ts. Fix DATA_FILE path dan export main."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-09-12T03:29:32.189Z",
+  "updatedAt": "2026-09-12T04:49:58.965Z"
+}

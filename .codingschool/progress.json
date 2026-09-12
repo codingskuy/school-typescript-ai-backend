@@ -8,7 +8,8 @@
         "1.2 Setup Project Bun Terbaru (bun init, tsconfig, bun --watch, Bun.env)",
         "1.3 Tipe Dasar & Type System (string, number, boolean, array, object, any vs unknown)",
         "1.4 Interface vs Type, Enum, Union & Intersection",
-        "1.5 Function, Async/Await & Promise di Bun"
+        "1.5 Function, Async/Await & Promise di Bun",
+        "1.6 Modul, Import/Export & Struktur Folder Backend (Clean Architecture intro)"
       ],
       "practice": [],
       "quizzes": [],
@@ -17,11 +18,12 @@
         "1.2 Setup Project Bun Terbaru (bun init, tsconfig, bun --watch, Bun.env)",
         "1.3 Tipe Dasar & Type System (string, number, boolean, array, object, any vs unknown)",
         "1.4 Interface vs Type, Enum, Union & Intersection",
-        "1.5 Function, Async/Await & Promise di Bun"
+        "1.5 Function, Async/Await & Promise di Bun",
+        "1.6 Modul, Import/Export & Struktur Folder Backend (Clean Architecture intro)"
       ],
       "completedPractice": [],
       "currentItem": null,
-      "lastCompletedItem": "1.5 Function, Async/Await & Promise di Bun",
+      "lastCompletedItem": "1.6 Modul, Import/Export & Struktur Folder Backend (Clean Architecture intro)",
       "currentBloomStage": null
     }
   },
@@ -31,6 +33,6 @@
     "practice": 100,
     "architecture": 50
   },
-  "xp": 250,
+  "xp": 300,
   "level": 1
 }
