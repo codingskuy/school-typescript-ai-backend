@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": 1,
+    "text": "Ngepel sore",
+    "done": false
+  },
+  {
+    "id": 2,
+    "text": "belajar bun",
+    "done": false
+  }
+]
