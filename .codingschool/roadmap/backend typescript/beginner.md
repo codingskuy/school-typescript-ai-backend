@@ -11,7 +11,7 @@
 - [x] 1.4 Interface vs Type, Enum, Union & Intersection
 - [x] 1.5 Function, Async/Await & Promise di Bun
 - [x] 1.6 Modul, Import/Export & Struktur Folder Backend (Clean Architecture intro)
-- [ ] 🚀 Proyek 1: CLI Mini — Kalkulator & Todo CLI dengan Bun + TypeScript
+- [x] 🚀 Proyek 1: CLI Mini — Kalkulator & Todo CLI dengan Bun + TypeScript
 
 ## Tahap 2: HTTP Server — Bun + Elysia ❤️ — GRATIS
 - [ ] 2.1 Bun + Elysia Deep Dive (21x lebih cepat dari Express, 100% free)

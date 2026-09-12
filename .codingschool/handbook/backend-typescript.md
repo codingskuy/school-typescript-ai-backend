@@ -114,3 +114,22 @@
 **Progress:** 100% complete
 
 ---
+## 2026-09-12 11:52:16
+
+**Topic:** 🚀 Proyek 1: CLI Mini — Kalkulator & Todo CLI dengan Bun + TypeScript
+
+**Project Summary (Coach):**
+Proyek 1 selesai 100% gratis local: Calculator pure functions (tambah/kurang/kali/bagi/pangkat) dengan error handling bagi 0, Todo CRUD (add/list/done/delete/edit/clear) dengan Bun.file persistence JSON dan async/await, serta CLI controller (calc/todo/help) dengan parse args slice(2) dan try/catch. Struktur Clean Architecture mini (utils/math, domain/todo, cli).
+
+**Hasil:**
+- Fix bug pangkat ^ -> **, berhasil 2**3=8
+- Implement editTodo & clear mandiri
+- CLI run: bun run index.ts calc tambah 5 10 = 15, calc bagi 10 0 = Error, todo add/list/clear semua jalan
+- Fix Bun types: bun add -d bun-types
+- Semua 3 tugas di-claim level Junior (100% confidence)
+- Tech: Bun, TypeScript, ESM, Bun.file/Bun.write
+
+
+**Progress:** 100% complete
+
+---
